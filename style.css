@@ -1,0 +1,29 @@
+@keyframes animate {
+  from {background-color: black}
+  to {background-color: Cornsilk}
+}
+
+body {
+  background-color: Cornsilk ;
+  margin: 40px;
+  font-family: helvetica;
+}
+h1 {
+font-size: 60px;
+}
+img {
+    border-radius: 50%;
+}
+.Contents{
+  text-align: center;
+  width: 500px;
+}
+
+.Frame {
+  background-color: black;
+  border-radius: 50%;
+  width:500px;
+  height:500px;
+  padding: 12px;
+
+}
